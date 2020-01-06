@@ -1,0 +1,9 @@
+{
+  "Addr": "localhost:7007",
+  "HeartBeatAddr" : "localhost:7008",
+  "StarterPeerAddr" : "localhost:7005",
+  "DataTransferAddr" : "localhost:7009",
+  "HttpServiceAddr": "localhost:8004",
+  "NodeId": "2",
+  "DataSetPath" : "/Users/liwei/Desktop/goProject/distributeWordSplit/dataSet3"
+}
