@@ -117,7 +117,6 @@ Configuration File
 
 ./go_build_main_go [configuration.json]
 
-#### Hope my assignment is approved
 
 
 
